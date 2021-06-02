@@ -52,7 +52,10 @@
 
 ## About The Project
 
-`jelasin secara umum (bener2 umum) nanti dijelasin juga alasan kenapa mengerjakan project ini dan latar belakangnya`
+Indonesia’s major cities are suffering chronic congestion due to the growing number of vehicles in the country every year. Jakarta is one of the top 10 most congested in the world. Various solutions were proposed by the government as traffic congestion become one of the root issues accelerating air-pollution problem, CO2 emissions, delays, a higher chance of collisions, and the inability to forecast travel time accurately. The statistic shows the big reason society uses their vehicles is because of the mindset that they’ll reduce the travel time, but the reality proves how it turns out to be the opposite.
+
+Kotlite is here as a breakthrough idea that answers the need of users to find drivers or passengers from and going to the same routes. It is designed to optimistically accelerate the transformation of the citizens' lifestyle to rideshare and network, eliminating incurable rush hour traffic and provide practicality for user's mobility from one place to another.
+
 
 ## Team Members
 
