@@ -92,14 +92,21 @@ _Coming Very Soon_
 
 _Coming Very Soon_
 
-## Feature of This Projects
+## Features of This Projects
 
-_Featurenya dong_
+1. Driver Features
 
-- contoh feature 1
-- contoh feature 2
-  - contoh subfeature 2
-- contoh feature 3
+   - Doing travel scheduling
+   - View the list of passengers who made a booking
+   - View passenger details
+   - Knowing the direction of each passenger who makes a booking
+   - Invoice
+
+2. Passenger Feature
+   - Get recommendations for drivers who have similar trips
+   - Doing travel scheduling
+   - Driver status notification
+   - Invoice
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
