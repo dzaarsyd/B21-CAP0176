@@ -54,8 +54,6 @@
       <li><a href="#api-documentations">API Documentations</a></li>
     </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
