@@ -23,16 +23,16 @@
     <br />
     <strong>Our Project List</strong>
     <br>
-    <a href="https://github.com/kroniz-utab/kotlite_algorithm">
+    <a href="https://github.com/kroniz-utab/kotlite_algorithm" target="_blank">
         <img src="https://img.shields.io/badge/Tensorflow-Kotlite_Algorithm-FF6F00?style=flat&logo=Tensorflow"></img>
     </a>
-    <a href="https://github.com/bismastr/kotliteApp">
+    <a href="https://github.com/bismastr/kotliteApp" target="_blank">
         <img src="https://img.shields.io/badge/Kotlin-Kotlite_Apps-0095D5?style=flat&logo=Kotlin"></img>
     </a>
-    <a href="https://github.com/SVeeIS/kotliteProjectAPI">
+    <a href="https://github.com/SVeeIS/kotliteProjectAPI" target="_blank">
         <img src="https://img.shields.io/badge/Django-Kotlite_API-092E20?style=flat&logo=Django"></img>
     </a>
-    <a href="#">
+    <a href="https://storage.googleapis.com/proud-lamp-312513/Kotlite.apk" target="_blank">
         <img src="https://img.shields.io/badge/Download_APK-Demo_Ver.-3DDC84?style=flat&logo=Android"></img>
     </a>
   </p>
@@ -84,7 +84,7 @@ Kotlite is here as a breakthrough idea that answers the need of users to find dr
 
 ## Our Products
 
-- [Android Apps Installer .apk](#) (xx Mb)
+- [Android Apps Installer .apk](https://storage.googleapis.com/proud-lamp-312513/Kotlite.apk) (8.1 Mb)
 
 ### Prerequisites
 
