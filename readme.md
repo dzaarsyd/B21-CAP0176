@@ -29,7 +29,7 @@
     <a href="https://github.com/bismastr/kotliteApp" target="_blank">
         <img src="https://img.shields.io/badge/Kotlin-Kotlite_Apps-0095D5?style=flat&logo=Kotlin"></img>
     </a>
-    <a href="https://github.com/SVeeIS/kotliteProjectAPI" target="_blank">
+    <a href="https://github.com/vionaaindah/kotliteProjectAPI" target="_blank">
         <img src="https://img.shields.io/badge/Django-Kotlite_API-092E20?style=flat&logo=Django"></img>
     </a>
     <a href="https://storage.googleapis.com/proud-lamp-312513/Kotlite.apk" target="_blank">
@@ -79,7 +79,7 @@ Kotlite is here as a breakthrough idea that answers the need of users to find dr
 ## Our Projects Repository
 
 - [Kotlite Android Apps](https://github.com/bismastr/kotliteApp)
-- [Kotlite RestAPI](https://github.com/SVeeIS/kotliteProjectAPI)
+- [Kotlite RestAPI](https://github.com/vionaaindah/kotliteProjectAPI)
 - [Kotlite Matching Recommendations Algorithm](https://github.com/kroniz-utab/kotlite_algorithm)
 
 ## Our Products
@@ -147,5 +147,5 @@ _For more usage, please refer to the [**Documentation**](http://kotlite.xyz/docs
 [ade-github-url]: https://github.com/kroniz-utab
 [bisma-github-url]: https://github.com/bismastr
 [monang-github-url]: https://github.com/mosirus
-[vio-github-url]: https://github.com/SVeeIS
+[vio-github-url]: https://github.com/vionaaindah
 [ferry-github-url]: https://github.com/ftama0
